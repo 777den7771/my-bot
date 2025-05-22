@@ -1,7 +1,7 @@
 from telegram import Bot
-from config import TELEGRAM_TOKEN, CHAT_ID
+from config import 7764776672:AAG77dSGvj9GQAQ65qTeablUymI3M0NdWPE, 6086012346
 
-bot = Bot(token=TELEGRAM_TOKEN)
+bot = Bot(token=7764776672:AAG77dSGvj9GQAQ65qTeablUymI3M0NdWPE)
 
 def send_message(text):
     try:
